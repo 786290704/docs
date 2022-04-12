@@ -60,7 +60,7 @@ PCM(pancakemoon) 不同于CAKE,我们在基础代码上添加了交易税，每�
   * PCMSwap沿用了PancakeSwap的工厂和路由合约，您可以在PCMSwap上找到PancakeSwap的交易对
 *
 
-    * PCMSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，大部分代码都沿用了PanCakeSwap，以便最大化透明度。
+    * PCMSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，大部分代码都沿用了PanCakeSwap，让我们变得更加安全。
 
 
 * 查看我们的代码-[<mark style="color:red;">https://github.com/PCMSwap/</mark>](https://github.com/PCMSwap/)<mark style="color:red;"></mark>
