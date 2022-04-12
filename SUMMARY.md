@@ -1,12 +1,12 @@
 # Table of contents
 
-* [PCMSwap 介绍](README.md)
-* [入门指南](ru-men-zhi-nan/README.md)
+* [🏠 PCMSwap 介绍](README.md)
+* [🚲 入门指南](ru-men-zhi-nan/README.md)
   * [创建钱包](ru-men-zhi-nan/chuang-jian-qian-bao.md)
   * [获取 BEP-20 代币](ru-men-zhi-nan/huo-qu-bep20-dai-bi.md)
   * [连接钱包](ru-men-zhi-nan/lian-jie-qian-bao.md)
   * [连接钱包](ru-men-zhi-nan/lian-jie-qian-bao-1.md)
-* [需要帮助？点我](xu-yao-bang-zhu-dian-wo/README.md)
+* [💡 需要帮助？点我](xu-yao-bang-zhu-dian-wo/README.md)
   * [需要帮助？点我](xu-yao-bang-zhu-dian-wo/xu-yao-bang-zhu-dian-wo.md)
   * [常见问题解答](xu-yao-bang-zhu-dian-wo/chang-jian-wen-ti-jie-da.md)
   * [如何修复 MetaMask 上卡住的交易](xu-yao-bang-zhu-dian-wo/ru-he-xiu-fu-metamask-shang-ka-zhu-de-jiao-yi.md)
@@ -29,7 +29,7 @@
 * [🗳 投票](chan-pin/tou-piao.md)
 * [🚜 高产农业](chan-pin/gao-chan-nong-ye/README.md)
   * [如何使用农场](chan-pin/gao-chan-nong-ye/ru-he-shi-yong-nong-chang.md)
-  * [🚜 流动性挖矿](chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md)
+  * [⛏ 流动性挖矿](chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md)
 
 ## 经济模型
 
