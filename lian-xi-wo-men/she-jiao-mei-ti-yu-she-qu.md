@@ -10,6 +10,20 @@
 
 
 
+Medium
+
+### &#x20;<a href="#reddit" id="reddit"></a>
+
+r/pancakeswap
+
+reddit
+
+### &#x20;<a href="#instagram" id="instagram"></a>
+
+https://www.instagram.com/pancakeswap\_official/
+
+www.instagram.com
+
 ### &#x20;<a href="#dian-bao-telegram" id="dian-bao-telegram"></a>
 
 **官方电报群：**
