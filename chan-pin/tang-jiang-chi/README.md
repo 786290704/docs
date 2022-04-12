@@ -1,7 +1,5 @@
 # 🍯 糖浆池
 
-![啊，美味](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mipfy6Aix09Ym9mwHW1%2F-MiqdrK8QCb76X9kGjhV%2Fimage.png?alt=media\&token=410121ae-674f-4afd-a604-d558833f75aa)
-
 
 
 ### **什么是糖浆池？** <a href="#what-are-syrup-pools" id="what-are-syrup-pools"></a>

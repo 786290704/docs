@@ -14,7 +14,7 @@
 
 正确设置并连接好钱包后，您可以参考下面的手把手指南，开始学习使用 PCMSwap 。
 
-​[代币交易](../chan-pin/jiao-yi.md#swapping-trading) [添加/移除流动性](../chan-pin/liu-dong-xing-wa-kuang.md) [农场](../chan-pin/liu-dong-xing-wa-kuang.md) [Syrup 资金池](../chan-pin/tang-jiang-chi/) [预测市场](../chan-pin/yu-ce.md) [参加 IFO 预售](../lian-xi-wo-men/shang-ye-he-zuo.md) [购买头像 NFT 及设置个人资料](../lu-xian-tu.md)
+​[代币交易](../chan-pin/jiao-yi.md#swapping-trading) [添加/移除流动性](../chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md) [农场](../chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md) [Syrup 资金池](../chan-pin/tang-jiang-chi/) [预测市场](../chan-pin/yu-ce.md) [参加 IFO 预售](../lian-xi-wo-men/shang-ye-he-zuo.md) [购买头像 NFT 及设置个人资料](../lu-xian-tu.md)
 
 &#x20;[参加社区投票](../lu-xian-tu.md)​
 

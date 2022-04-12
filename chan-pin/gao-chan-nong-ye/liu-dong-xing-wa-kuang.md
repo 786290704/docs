@@ -2,9 +2,9 @@
 
 流动性挖矿让用户们通过质押 LP 代币（流动性凭证）来支持 PCMSwap 并赚取 PCM 代币。
 
-查看 [如何使用农场指南](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) 立刻开始流动性挖矿。
+查看 [如何使用农场指南](./) 立刻开始流动性挖矿。
 
-请同时查阅 [如何找到农场智能合约](https://docs.pancakeswap.finance/products/yield-farming)
+请同时查阅 [如何找到农场智能合约](./)
 
 {% hint style="warning" %}
 流动性挖矿与糖浆池相比，会给予更高的奖励，但同时它们拥有**无常损失**带来的风险。它并没有听起来那么可怕，但在开始挖矿前，适当的去了解它是值得的。
@@ -20,7 +20,7 @@
 
 
 
-以下是一个使用 [pancakeswap.info](https://pancakeswap.info) 计算年化利率的例子。
+以下是一个使用 PCMswap.info 计算年化利率的例子。
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq\_cfiBriKcl)
 

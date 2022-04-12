@@ -1,6 +1,6 @@
 # 📱 预测
 
-Could not load image
+
 
 PCMSwap 「预测」是一个简单有趣的去中心化预测市场。
 

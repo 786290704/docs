@@ -1,26 +1,14 @@
 # PCM 代币经济模型
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-3369173170%2Fuploads%2FTKK5IlnLXp426EcCWU9d%2Fcn-1129.png?alt=media\&token=d047e282-ac01-4b50-8ff0-c7207ec046cd)
-
 ### &#x20;<a href="#emission-rate" id="emission-rate"></a>
 
 除此以外，还会以 9.09% 的比例，向[团队地址](broken-reference)铸造动态数量的 PCM。这意味着，如果你收获了 100 个PCM，那么就会有 9.09 个 PCM 被铸造出来，然后发送到团队地址。
 
 所有铸造给团队地址的 PCM 都被每周销毁，从未进入流通。
 
-### &#x20;<a href="#distribution" id="distribution"></a>
 
-### &#x20;<a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
-* PCMSwap v2 的交易额的 **0.05%**
-*
-*
-* ****
-* ****
-*
-* ****
-*
-*
+* PCMSwap v2 的交易额的 1**.05%**
 *
 
 为了迅速落地，PCMSwap 以 MVP（最小可行产品）的形式推出，MasterChef 合约每区块恒定铸造 40 PCM。由于这个原因，早期的团队没有增加额外的功能，如更改 PCM 铸币速度与逻辑的能力。由于迁移到新的 MasterChef 需要大量的时间和精力，团队选择通过创建两个农场池来控制 PCM 的铸造速度：

@@ -1,7 +1,5 @@
 # 控制 PCM 的总量
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-3369173170%2Fuploads%2FQz078FTJisYc6IMlXGEu%2Fimage.png?alt=media\&token=87058548-9fbc-4da0-b5f6-7ae329d8c187)
-
 目前，PCM代币的总量没有硬性上限。
 
 社区成员经常指出这是一个令人担忧的事情，虽然大厨们非常理解大家希望设置硬上限的愿望。但同时，我们不会想在近期设置它，原因如下：
@@ -20,4 +18,4 @@
 
 ### &#x20;<a href="#tong-suo-ji-zhi" id="tong-suo-ji-zhi"></a>
 
-PCMSwap 内的每一个产品中，都内置了代币销毁机制（[查看燃烧地址](broken-reference)）（比如，购买彩票的 PCM 中，有 20% 被销毁）。当然，还有更多。请查看 PCM 代币经济模型页面，了解现有和即将到来的通缩机制。
+PCMSwap 内的每一个产品中，都内置了代币销毁机制（[查看燃烧地址](broken-reference)）。当然，还有更多。请查看 PCM 代币经济模型页面，了解现有和即将到来的通缩机制。

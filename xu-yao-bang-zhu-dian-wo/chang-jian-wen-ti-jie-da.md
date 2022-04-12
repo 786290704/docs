@@ -17,7 +17,7 @@
 
 ### &#x20;<a href="#wo-zen-yang-zhi-ya-wo-de-cake" id="wo-zen-yang-zhi-ya-wo-de-cake"></a>
 
-您可以在糖浆池中质押 PCM 并赚取 PCM 或其他代币，访问 [糖浆池页面](https://pancakeswap.finance/pools)。
+您可以在糖浆池中质押 PCM 并赚取 PCM 或其他代币，访问 糖浆池页面。
 
 ### &#x20;<a href="#tang-jiang-chi-zhi-ya-wa-kuang-he-nong-chang-liu-dong-xing-wa-kuang-you-shi-mo-qu-bie" id="tang-jiang-chi-zhi-ya-wa-kuang-he-nong-chang-liu-dong-xing-wa-kuang-you-shi-mo-qu-bie"></a>
 
@@ -73,10 +73,10 @@ PCMSwap 其他智能合约，例如 IFO 和自动 PCM 糖浆池，同样受到�
 
 ### &#x20;<a href="#wo-neng-jia-ru-pancakeswap-tuan-dui-ma" id="wo-neng-jia-ru-pancakeswap-tuan-dui-ma"></a>
 
-同时，我们会在 [官方社交频道](https://docs.pancakeswap.finance/contact-us/telegram) 公布任何新的招聘信息，请务必关注它们，以便第一时间收到相关信息。
+同时，我们会在 [官方社交频道](../lian-xi-wo-men/she-jiao-mei-ti-yu-she-qu.md) 公布任何新的招聘信息，请务必关注它们，以便第一时间收到相关信息。
 
 ### &#x20;<a href="#shi-mo-shi-syrup-tang-jiang-dai-bi" id="shi-mo-shi-syrup-tang-jiang-dai-bi"></a>
 
-SYRUP 代币曾经是 PCMSwap 早期质押过程中的一部分。后来，SYRUP 被发现含有一个安全漏洞，并被废弃。现在 PCMSwap 的质押，不再依赖 SYRUP 代币。
+
 
 ### &#x20;<a href="#shang-shu-da-an-mei-you-jie-jue-wo-de-wen-ti-wo-ying-gai-zai-na-li-xun-qiu-bang-zhu" id="shang-shu-da-an-mei-you-jie-jue-wo-de-wen-ti-wo-ying-gai-zai-na-li-xun-qiu-bang-zhu"></a>
