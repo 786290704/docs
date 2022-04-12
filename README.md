@@ -59,6 +59,8 @@ PCM(pancakemoon) 不同于CAKE,我们在基础代码上添加了交易税，每�
   * [慢雾 对 PancakeSwap 工厂和路由合约的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * PCMSwap沿用了PancakeSwap的工厂和路由合约，您可以在PCMSwap上找到PancakeSwap的交易对
 *
-  * PCMSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，大部分代码都沿用了PanCakeSwap，以便最大化透明度。
-  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+
+    * PCMSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，大部分代码都沿用了PanCakeSwap，以便最大化透明度。
+
+
 * 查看我们的代码-[<mark style="color:red;">https://github.com/PCMSwap/</mark>](https://github.com/PCMSwap/)<mark style="color:red;"></mark>
