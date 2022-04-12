@@ -20,6 +20,9 @@
 ## 产品
 
 * [🔄 交易](chan-pin/jiao-yi.md)
+* [🚜 高产农业](chan-pin/gao-chan-nong-ye/README.md)
+  * [如何使用农场](chan-pin/gao-chan-nong-ye/ru-he-shi-yong-nong-chang.md)
+  * [⛏ 流动性挖矿](chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md)
 * [🍯 糖浆池](chan-pin/tang-jiang-chi/README.md)
   * [如何在糖浆池内质押？](chan-pin/tang-jiang-chi/ru-he-zai-tang-jiang-chi-nei-zhi-ya.md)
   * [自动 PCM 糖浆池](chan-pin/tang-jiang-chi/zi-dong-cake-tang-jiang-chi.md)
@@ -27,9 +30,6 @@
 * [📱 预测](chan-pin/yu-ce.md)
 * [📈 信息站](chan-pin/xin-xi-zhan.md)
 * [🗳 投票](chan-pin/tou-piao.md)
-* [🚜 高产农业](chan-pin/gao-chan-nong-ye/README.md)
-  * [如何使用农场](chan-pin/gao-chan-nong-ye/ru-he-shi-yong-nong-chang.md)
-  * [⛏ 流动性挖矿](chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md)
 
 ## 经济模型
 
