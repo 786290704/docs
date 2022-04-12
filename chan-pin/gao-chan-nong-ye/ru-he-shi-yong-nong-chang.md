@@ -82,13 +82,13 @@ PCM-BNB和BUSD-BNB以默认的热排序固定在列表顶部。在钉住农场�
 
     找到您拥有LP令牌的服务器场，然后单击该行以查看详细信息。您将在右侧看到一个-和+按钮。单击-删除LP令牌，或单击+添加更多LP令牌。
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2F32ead761ffca6e60b5d44631e5a8603506542f5c.png?generation=1626147349446098\&alt=media)
+![](../../.gitbook/assets/QQ图片20220412191807.png)
 
 1.  1\.
 
     将打开一个窗口，看起来像是您之前用来第一次下注LP代币的窗口。与上次一样，键入要取消提取/赌注的金额，或单击“最大”删除/添加所有可用的LP代币。
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_yHqZ-iQ7MbYTxgAV0%2F-Ma2ohBGgl\_Ja\_jXUIj3%2Fimage.png?alt=media\&token=13ec22b5-2054-40bc-a23a-cfefd8ee9dd4)
+![](../../.gitbook/assets/QQ图片20220412191955.png)
 
 1.  1\.
 
