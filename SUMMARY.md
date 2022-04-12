@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 PCMSwap 介绍](README.md)
+* [预售](yu-shou.md)
 * [🚲 入门指南](ru-men-zhi-nan/README.md)
   * [创建钱包](ru-men-zhi-nan/chuang-jian-qian-bao.md)
   * [获取 BEP-20 代币](ru-men-zhi-nan/huo-qu-bep20-dai-bi.md)
@@ -11,7 +12,7 @@
   * [常见问题解答](xu-yao-bang-zhu-dian-wo/chang-jian-wen-ti-jie-da.md)
   * [如何修复 MetaMask 上卡住的交易](xu-yao-bang-zhu-dian-wo/ru-he-xiu-fu-metamask-shang-ka-zhu-de-jiao-yi.md)
   * [故障排除指南](xu-yao-bang-zhu-dian-wo/gu-zhang-pai-chu-zhi-nan.md)
-* [联系我们](lian-xi-wo-men/README.md)
+* [🫂 联系我们](lian-xi-wo-men/README.md)
   * [商业合作](lian-xi-wo-men/shang-ye-he-zuo.md)
   * [社交媒体与社区](lian-xi-wo-men/she-jiao-mei-ti-yu-she-qu.md)
   * [客户服务](lian-xi-wo-men/ke-hu-fu-wu.md)
@@ -40,4 +41,3 @@
 ***
 
 * [PCM 代币经济学](pcm-dai-bi-jing-ji-xue.md)
-* [预售](yu-shou.md)
