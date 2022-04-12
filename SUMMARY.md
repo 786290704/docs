@@ -27,7 +27,7 @@
 * [📱 预测](chan-pin/yu-ce.md)
 * [📈 信息站](chan-pin/xin-xi-zhan.md)
 * [🗳 投票](chan-pin/tou-piao.md)
-* [高产农业](chan-pin/gao-chan-nong-ye/README.md)
+* [🚜 高产农业](chan-pin/gao-chan-nong-ye/README.md)
   * [如何使用农场](chan-pin/gao-chan-nong-ye/ru-he-shi-yong-nong-chang.md)
   * [🚜 流动性挖矿](chan-pin/gao-chan-nong-ye/liu-dong-xing-wa-kuang.md)
 
