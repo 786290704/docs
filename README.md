@@ -52,7 +52,7 @@ PCM(pancakemoon) 不同于CAKE,我们在基础代码上添加了交易税，每�
 
 
 
-## PCMNSwap 安全吗？
+## PCMSwap 安全吗？
 
 眼见为实
 
