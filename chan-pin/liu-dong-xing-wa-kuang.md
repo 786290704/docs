@@ -1,6 +1,6 @@
 # 🚜 流动性挖矿
 
-流动性挖矿让用户们通过质押 LP 代币（流动性凭证）来支持 PancakeSwap 并赚取 CAKE 代币。
+流动性挖矿让用户们通过质押 LP 代币（流动性凭证）来支持 PCMSwap 并赚取 PCM 代币。
 
 查看 [如何使用农场指南](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) 立刻开始流动性挖矿。
 

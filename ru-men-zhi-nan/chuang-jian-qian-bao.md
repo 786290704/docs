@@ -14,7 +14,7 @@
 
 ## 我应该使用手机端钱包还是电脑端钱包？
 
-您在手机与电脑上均可通过钱包软件使用 PancakeSwap，它们有各自的优势与缺点。请考虑自己的具体需求，按以下表格决定使用哪种类型的钱包应用：
+您在手机与电脑上均可通过钱包软件使用 PCMSwap，它们有各自的优势与缺点。请考虑自己的具体需求，按以下表格决定使用哪种类型的钱包应用：
 
 | 手机端 | 电脑端 |                |
 | --- | --- | -------------- |
@@ -37,7 +37,7 @@
 
 ### 我应该选择哪个手机钱包？ <a href="#which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with PCMSwap.
 
 
 
@@ -102,7 +102,7 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 **缺点：**
 
 * 设置需时较长
-* 搭配币安智能链和 PancakeSwap 使用前需要一些额外设置
+* 搭配币安智能链和 PCMSwap 使用前需要一些额外设置
 * 额外的信息与设置可能会让新手感觉眼花缭乱
 
 [**下载 MetaMask**](https://metamask.io/download.html) **（自动检测您的设备）**
@@ -177,7 +177,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 
 备份好助记词并验证后，创建钱包的操作就完成了。
 
-想要通过 TokenPocket 连接币安智能链并使用 PancakeSwap，您可参考「如何连接钱包」教程中的 TokenPocket 部分：\
+想要通过 TokenPocket 连接币安智能链并使用 PCMSwap，您可参考「如何连接钱包」教程中的 TokenPocket 部分：\
 
 
 

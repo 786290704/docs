@@ -2,7 +2,7 @@
 
 ​
 
-Could not load image
+
 
 「投票」赋予 PCMSwap 社区发言权，让社区得以为 PCMSwap 的未来发展出谋划策。
 

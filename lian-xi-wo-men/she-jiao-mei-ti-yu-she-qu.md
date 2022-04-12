@@ -4,34 +4,18 @@
 
 
 
-
-
 ​https://twitter.com/PCMswap
 
 
-
-Medium
-
-### &#x20;<a href="#reddit" id="reddit"></a>
-
-r/pancakeswap
-
-reddit
-
-### &#x20;<a href="#instagram" id="instagram"></a>
-
-https://www.instagram.com/pancakeswap\_official/
-
-www.instagram.com
 
 ### &#x20;<a href="#dian-bao-telegram" id="dian-bao-telegram"></a>
 
 **官方电报群：**
 
-* 📣 公告频道（英文）(https://t.me/PCMswap​\_zh)
-* 🥞 Engl(https://t.me/PCMswap​\_zh)
+* 📣 公告频道（英文）(https://t.me/PCMswap\_cn)
+* 🥞 Engl(https://t.me/PCMswap​)
 *
-* 🇨🇳 中文 (​https://t.me/PCMswap​\_zh)
+* 🇨🇳 中文 (​https://t.me/PCMswap​\_cn)
 
 
 

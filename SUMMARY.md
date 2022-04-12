@@ -23,12 +23,11 @@
 * [🚜 流动性挖矿](chan-pin/liu-dong-xing-wa-kuang.md)
 * [🍯 糖浆池](chan-pin/tang-jiang-chi/README.md)
   * [如何在糖浆池内质押？](chan-pin/tang-jiang-chi/ru-he-zai-tang-jiang-chi-nei-zhi-ya.md)
-  * [自动 CAKE 糖浆池](chan-pin/tang-jiang-chi/zi-dong-cake-tang-jiang-chi.md)
+  * [自动 PCM 糖浆池](chan-pin/tang-jiang-chi/zi-dong-pcm-tang-jiang-chi.md)
   * [糖浆池常见问题解答与排错指南](chan-pin/tang-jiang-chi/tang-jiang-chi-chang-jian-wen-ti-jie-da-yu-pai-cuo-zhi-nan.md)
 * [📱 预测](chan-pin/yu-ce.md)
 * [📈 信息站](chan-pin/xin-xi-zhan.md)
 * [🗳 投票](chan-pin/tou-piao.md)
-* [IFO (初次农场发行)](chan-pin/ifo-chu-ci-nong-chang-fa-hang.md)
 
 ## 经济模型
 

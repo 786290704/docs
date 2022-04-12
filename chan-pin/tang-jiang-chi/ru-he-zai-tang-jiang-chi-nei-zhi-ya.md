@@ -1,5 +1,5 @@
 ---
-description: 在 PancakeSwap 上赚取免费代币最简单的方法！
+description: 在 PCMSwap 上赚取免费代币最简单的方法！
 ---
 
 # 如何在糖浆池内质押？
@@ -49,7 +49,7 @@ description: 在 PancakeSwap 上赚取免费代币最简单的方法！
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_xca0jVy\_Z\_BxN65jZ%2F-M\_xgGd-l7fCI7jFS2x4%2Fimage.png?alt=media\&token=bf8d9ba2-3266-46fb-8242-45c214aa77d9)
 
-&#x20;      **请注意：**若您质押的PCMCAKE 糖浆池，在质押操作后的 72 小时内，提取需要收取       0.1% 的手续费。
+&#x20;      **请注意：**若您质押的PCM 糖浆池，在质押操作后的 72 小时内，提取需要收取       0.1% 的手续费。
 
 1.
 

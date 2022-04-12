@@ -17,7 +17,7 @@
 
 ### &#x20;<a href="#xu-yao-duo-chang-shi-jian-cai-hui-shou-dao-da-fu" id="xu-yao-duo-chang-shi-jian-cai-hui-shou-dao-da-fu"></a>
 
-我们将尽可能地在一周内答复。但由于申请数量众多，我们无法保证对所有申请作出回应。若您在申请后两周内没有收到我们的回复，请尝试在 Telegram 上联系 [@chefbugs](https://t.me/chefbugs)，并阐述**您的项目名称、代币名称和申请日期。**
+我们将尽可能地在一周内答复。但由于申请数量众多，我们无法保证对所有申请作出回应。若您在申请后两周内没有收到我们的回复，请尝试在 Telegram 上联系 @PCMSwap管理人员，并阐述**您的项目名称、代币名称和申请日期。**
 
 ### &#x20;<a href="#she-qu-vs-he-xin-nong-chang-fen-bie-de-zi-ge-yu-biao-zhun-shi-shi-mo" id="she-qu-vs-he-xin-nong-chang-fen-bie-de-zi-ge-yu-biao-zhun-shi-shi-mo"></a>
 
