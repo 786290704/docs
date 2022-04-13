@@ -2,6 +2,7 @@
 
 * [🏠 PCMSwap 介绍](README.md)
 * [预售](yu-shou.md)
+* [Copy of 社交媒体与社区](copy-of-she-jiao-mei-ti-yu-she-qu.md)
 * [🚲 入门指南](ru-men-zhi-nan/README.md)
   * [创建钱包](ru-men-zhi-nan/chuang-jian-qian-bao.md)
   * [获取 BEP-20 代币](ru-men-zhi-nan/huo-qu-bep20-dai-bi.md)
