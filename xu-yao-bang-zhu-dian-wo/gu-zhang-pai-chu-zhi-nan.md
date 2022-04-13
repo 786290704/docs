@@ -28,7 +28,7 @@
 
 &#x20;        逐 步调高滑点容限，然后重试。
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MWxtg35bMTu-jgHaZjz%2F-MWyFMaIzjPxS091zEgv%2Fimage.png?alt=media\&token=524e7a9c-7e37-4aa3-a364-e2aad8357955)
+<img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MWxtg35bMTu-jgHaZjz%2F-MWyFMaIzjPxS091zEgv%2Fimage.png?alt=media&#x26;token=524e7a9c-7e37-4aa3-a364-e2aad8357955" alt="" data-size="original">
 
 ​
 
@@ -65,7 +65,7 @@
 
     ​
 
-    ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MWxtg35bMTu-jgHaZjz%2F-MWyFMaIzjPxS091zEgv%2Fimage.png?alt=media\&token=524e7a9c-7e37-4aa3-a364-e2aad8357955)
+    <img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MWxtg35bMTu-jgHaZjz%2F-MWyFMaIzjPxS091zEgv%2Fimage.png?alt=media&#x26;token=524e7a9c-7e37-4aa3-a364-e2aad8357955" alt="" data-size="original">
 
     ​
 
@@ -94,7 +94,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
     选择 “**Write Contract”** (写入合约)**，**然后点击 “**Connect to Web3”** (连接至Web3)以连接您的钱包。
 
-    ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+    <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 
     ​
 2.  2\.
@@ -252,7 +252,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
     点击 **“Connect to Web3”** （连接至 Web3）以连接您的钱包。
 
-    ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+    <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 
     ​
 3.  3\.
@@ -316,7 +316,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
     点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。
 
-    ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+    <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 
     ​
 5.  5\.
